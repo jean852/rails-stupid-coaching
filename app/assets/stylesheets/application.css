@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+ .qnacard {
+  /* display: flex; */
+  /* height: 100px; */
+  width: 100%;
+  border-left: 8px solid #c8c8c8;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+ }
+
+ .bg-coach{
+  background-color: rgb(255, 250, 212);
+ }
